@@ -1,0 +1,17 @@
+
+# Analysis Report: Monthly_oct_week1
+Date Generated: 2026-06-15 21:11
+
+## Summary Statistics
+-   Mean Value: 44776.79
+-   Median Value: 35000.00
+-   Total Records: 336
+
+## Statistical Analysis (T-test between  A and B)
+-   T-statistic: -0.149
+-   P-value: 0.8818
+-   Conclusion: No significant difference found
+
+## Visualizations
+[Boxplot image: monthly_oct_week1_report.png]
+    

@@ -1,0 +1,17 @@
+
+# Analysis Report: Monthly_dec
+Date Generated: 2026-06-15 21:11
+
+## Summary Statistics
+-   Mean Value: 53702.38
+-   Median Value: 37500.00
+-   Total Records: 2520
+
+## Statistical Analysis (T-test between  A and B)
+-   T-statistic: 0.847
+-   P-value: 0.3970
+-   Conclusion: No significant difference found
+
+## Visualizations
+[Boxplot image: monthly_dec_report.png]
+    
